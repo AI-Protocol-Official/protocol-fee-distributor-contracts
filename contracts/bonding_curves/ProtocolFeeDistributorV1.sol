@@ -3,7 +3,7 @@ pragma solidity ^0.8.4;
 
 import "../interfaces/ERC20Spec.sol";
 import "../utils/Transfers.sol";
-import "@lazy-sol/access-control-upgradeable/contracts/UpgradeableAccessControl.sol";
+import "@ai-protocol/access-control-upgradeable/contracts/UpgradeableAccessControl.sol";
 
 /**
  * @title Protocol Fee Distributor V1
